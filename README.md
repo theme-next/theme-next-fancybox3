@@ -1,6 +1,6 @@
 <h1 align="center"><a href="https://github.com/fancyapps/fancybox">fancyBox 3</a> for <a href="https://github.com/theme-next">NexT</a></h1>
 
-<h1 align="center">if you want fancybox v2, please head to <a href="https://github.com/theme-next/theme-next-fancybox">theme-next-fancybox</a></h1>
+<h2 align="center">If you want fancybox v2, please go to <a href="https://github.com/theme-next/theme-next-fancybox">theme-next-fancybox</a></h2>
 
 <h1 align="center">Installation</h1>
 
